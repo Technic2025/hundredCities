@@ -1,0 +1,100 @@
+Tokyo	38001000
+New Delhi	25703168
+Shanghai	23740778
+Sao Paulo	21066245
+Mumbai	21042538
+Mexico City	20998543
+Beijing	20383994
+Osaka	20237645
+Cairo	18771769
+New York City	18593220
+Dhaka	17598228
+Karachi	16617644
+Buenos Aires	15180176
+Kolkata	14864919
+Istanbul	14163989
+Chongqing	13331579
+Lagos	13122829
+Manila	12946263
+Rio De Janeiro	12902306
+Guangzhou	12458130
+Los Angeles	12309530
+Moscow	12165704
+Kinshasa	11586914
+Tianjin	11210329
+Paris	10843285
+Shenzhen	10749473
+Jakarta	10323142
+London	10313307
+Bangalore	10087132
+Lima	9897033
+Chennai	9890427
+Seoul	9773746
+Bogotá	9764769
+Nagoya	9406264
+Johannesburg	9398698
+Bangkok	9269823
+Hyderabad	8943523
+Chicago	8744835
+Lahore	8741365
+Tehran	8432196
+Wuhan	7905572
+Chengdu	7555705
+Dongguan	7434935
+Nanjing	7369157
+Ahmadabad	7342850
+Hong Kong	7313557
+Ho Chi Minh City	7297780
+Foshan	7035945
+Kuala Lumpur	6836911
+Baghdad	6642848
+Santiago	6507400
+Hangzhou	6390637
+Riyadh	6369710
+Shenyang	6315470
+Madrid	6199254
+Xi'an	6043700
+Toronto	5992739
+Miami	5817221
+Pune	5727530
+Belo Horizonte	5716422
+Dallas	5702641
+Surat	5650011
+Houston	5638045
+Singapore	5618866
+Philadelphia	5585211
+Kitakyushu	5510478
+Luanda	5506000
+Suzhou	5472033
+Haerbin	5457414
+Barcelona	5258319
+Atlanta	5142140
+Khartoum	5129358
+Dar es Salaam	5115670
+St. Petersburg	4992991
+Washington	4955139
+Abidjan	4859798
+Guadalajara	4843241
+Yangon	4801930
+Alexandria	4777677
+Ankara	4749968
+Kabul	4634875
+Qingdao	4565549
+Chittagong	4539393
+Monterrey	4512572
+Sydney	4505341
+Dalian	4489380
+Xiamen	4430081
+Zhengzhou	4387118
+Boston	4249036
+Melbourne	4203416
+Brasília	4155476
+Jiddah	4075803
+Phoenix	4062605
+Ji'nan	4032150
+Montreal	3980708
+Shantou	3948813
+Nairobi	3914791
+Medellín	3910989
+Fortaleza	3880202
+Kunming	3779558

@@ -1,0 +1,100 @@
+New York City	8283550
+Los Angeles	3966940
+Chicago	2686530
+Houston	2321960
+Phoenix	1633020
+Philadelphia	1584540
+San Antonio	1564490
+San Diego	1409570
+Dallas	1345340
+San Jose	1027690
+Austin	995347
+Fort Worth	925954
+Jacksonville	920577
+Columbus	906237
+Charlotte	898902
+Indianapolis	881808
+San Francisco	874961
+Seattle	765115
+Washington	709951
+Denver	705576
+Boston	694053
+El Paso	683581
+Nashville	674634
+Detroit	667085
+Oklahoma City	662202
+Las Vegas	659410
+Portland	658645
+Memphis	651042
+Louisville	616781
+Milwaukee	588939
+Baltimore	584537
+Albuquerque	561397
+Tucson	541482
+Fresno	525010
+Atlanta	515439
+Sacramento	500930
+Mesa	499720
+Kansas City	498642
+Omaha	479085
+Raleigh	478824
+Miami	473107
+Long Beach	466776
+Colorado Springs	464871
+Virginia Beach	450099
+Minneapolis	434309
+Oakland	425097
+Tampa	402168
+Tulsa	401966
+Arlington	399585
+Wichita	390645
+New Orleans	389284
+Cleveland	378804
+Bakersfield	377917
+Aurora	369111
+Anaheim	349964
+Honolulu	343183
+Santa Ana	332794
+Henderson	330860
+Corpus Christi	326865
+Riverside	326414
+Lexington	323878
+San Juan	323279
+St. Paul	309232
+Stockton	309228
+Cincinnati	305603
+Pittsburgh	300002
+Greensboro	298902
+St. Louis	297733
+Anchorage	293531
+Lincoln	291274
+Orlando	288981
+Plano	286607
+Durham	283429
+Newark	282270
+Fort Wayne	273344
+Irvine	273157
+Toledo	270694
+Chula Vista	268920
+St. Petersburg	266236
+Laredo	264126
+Madison	261506
+Lubbock	261255
+Reno	261056
+Jersey City	260299
+North Las Vegas	258599
+Buffalo	254787
+Chandler	252692
+Scottsdale	250602
+Winston-Salem	249355
+Glendale	247813
+Chesapeake	247311
+Gilbert	243254
+Norfolk	241899
+Irving	238172
+Garland	238147
+Fremont	235740
+Paradise	235087
+Arlington	233464
+Hialeah	231737
+Richmond	231651
